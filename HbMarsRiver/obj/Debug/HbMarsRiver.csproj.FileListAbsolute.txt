@@ -1,0 +1,9 @@
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\bin\Debug\HbMarsRiver.exe.config
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\bin\Debug\HbMarsRiver.exe
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\bin\Debug\HbMarsRiver.pdb
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\obj\Debug\HbMarsRiverMetinD.Form1.resources
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\obj\Debug\HbMarsRiver.Properties.Resources.resources
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\obj\Debug\HbMarsRiver.csproj.GenerateResource.cache
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\obj\Debug\HbMarsRiver.csproj.CoreCompileInputs.cache
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\obj\Debug\HbMarsRiver.exe
+C:\Software\Denemeler\HbMarsRiver\HbMarsRiver\obj\Debug\HbMarsRiver.pdb
